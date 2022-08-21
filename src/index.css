@@ -94,10 +94,12 @@ input:focus {
   gap: 2em;
 }
 .stats--card {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: white;
   padding: 1em;
   border-radius: 5px;
-  color: white;
+  color: black;
+  border-radius: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .stats--card p {
   line-height: 1.5;
